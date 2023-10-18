@@ -6,5 +6,5 @@ Membuat class Pecahan yang terdapat operasi penjumlahan, pengurangan, perkalian,
 Kemudian class Matrik yang elemennya Pecahan dengan operasi:
 penjumlahan matrik, pengurangan matriks, dot matrik, transpose matrik, inverse matrik
 # Hasil Run
-! [Hasil progam] (hasil1.PNG)
-! [Hasil progam] (hasil2.PNG)
+![Hasil progam](hasil1.PNG)
+![Hasil progam](hasil2.PNG)
